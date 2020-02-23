@@ -1,2 +1,2 @@
 # balgori
-algorithm implementation
+various algorithm implementation
